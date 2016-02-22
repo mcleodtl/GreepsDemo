@@ -1,0 +1,9 @@
+*.ctxt
+greenfoot
+*.greenfoot
+*.class
+images
+doc
+.#*
+.cvsignore
+README.TXT
